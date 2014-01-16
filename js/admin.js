@@ -1,1 +1,2 @@
-alert('admin'); //this is a comment
+alert('admin');
+alert('test');
